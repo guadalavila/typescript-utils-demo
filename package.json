@@ -13,7 +13,6 @@
     "type": "git",
     "url": "https://github.com/guadalavila/typescript-utils-demo.git"
   },
-  "homepage": "https://github.com/guadalavila/typescript-utils-demo#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
     "@types/jest": "^26.0.23",
