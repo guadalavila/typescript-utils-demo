@@ -1,6 +1,6 @@
 {
-  "name": "@guadalav/ts-utils-demo",
-  "version": "1.0.0",
+  "name": "@guadalavila/ts-utils-demo",
+  "version": "1.0.1",
   "description": "Libreria de utileria.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/guadalavila/typescript-utils-demo.git"
+    "url": "git+https://github.com/guadalavila/typescript-utils-demo.git"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
