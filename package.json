@@ -1,5 +1,5 @@
 {
-  "name": "@guadalav/utils-package",
+  "name": "@guadalav/ts-utils-demo",
   "version": "1.0.0",
   "description": "Libreria de utileria.",
   "main": "dist/index.js",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guadalavila/typescript-library-demo.git"
+    "url": "https://github.com/guadalavila/typescript-utils-demo.git"
   },
-  "homepage": "https://github.com/guadalavila/typescript-library-demo#readme",
+  "homepage": "https://github.com/guadalavila/typescript-utils-demo#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
     "@types/jest": "^26.0.23",
