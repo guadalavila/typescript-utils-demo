@@ -1,0 +1,32 @@
+{
+  "name": "@guadalav/utils-package",
+  "version": "1.0.0",
+  "description": "Libreria de utileria.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "yarn build && jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guadalavila/typescript-library-demo.git"
+  },
+  "homepage": "https://github.com/guadalavila/typescript-library-demo#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2",
+    "ts-jest": "^27.0.3"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "files": [
+    "/dist"
+  ],
+  "author": "guadalavila",
+  "license": "ISC"
+}
